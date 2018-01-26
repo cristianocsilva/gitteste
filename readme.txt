@@ -1,1 +1,2 @@
 readme
+consertando o bug
